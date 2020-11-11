@@ -1,0 +1,11 @@
+String = “AKU SUKA MAKAN NASI PADANG”
+cout << kalimat_1.substr(2,3) << endl;
+cout << kalimat_2.substr('2,3','4,4') << endl;
+cout << kalimat_3.substr('2,3','4,4','9,5') << endl;
+cout << kalimat_4.substr('2,3','4,4','9,5','15,4') << endl;
+cout << kalimat_5.substr('2,3','4,4','9,5','15,4','20,6') << endl;
+cout << kalimat_6.substr('20,6') << endl;
+cout << kalimat_4.substr('20,6','15,4') << endl;
+cout << kalimat_4.substr('20,6','15,4','9,5') << endl;
+cout << kalimat_4.substr('20,6','15,4','9,5','4,4') << endl;
+cout << kalimat_4.substr('20,6','15,4','9,5','4,4','2,3') << endl;
